@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>alberpad.ipd</groupId>
+  <artifactId>factory_method</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>factory_method</name>
+  <description>Implentación de Conexión a 2 BBDD con Factory Method</description>
+  <dependencies>
+	<dependency>
+	    <groupId>mysql</groupId>
+	    <artifactId>mysql-connector-java</artifactId>
+	    <version>8.0.19</version>
+	</dependency>
+	<dependency>
+	    <groupId>org.postgresql</groupId>
+	    <artifactId>postgresql</artifactId>
+	    <version>42.2.10</version>
+	</dependency>
+	</dependencies>
+</project>
